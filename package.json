@@ -1,0 +1,27 @@
+{
+  "name": "tanweb",
+  "version": "1.0.0",
+  "description": "A production-grade, fully responsive static travel website for **WanderLuxe Tours**. All visible content and SEO metadata are loaded from JSON files, allowing non-technical clients to update the site without touching HTML, CSS, or JavaScript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/immi09/AbalFazltravels.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/immi09/AbalFazltravels/issues"
+  },
+  "homepage": "https://github.com/immi09/AbalFazltravels#readme",
+  "devDependencies": {
+    "vite": "^8.3.8"
+  }
+}
