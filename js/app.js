@@ -15,7 +15,7 @@
 // 3. Replace SHEET_ID with your Google Sheet ID
 // 4. Deploy → New deployment → Web app → Execute as: Me, Who has access: Anyone
 // 5. Copy the Web App URL and paste below
-const REVIEWS_API_URL = 'https://script.google.com/macros/s/AKfycbzpnTA9y1-4tL1IuTW2ECuK5gpX5wCopg4wpRXJip-ZzbVjPv1dPj5py6yJHElNjZWL/exec';
+const REVIEWS_API_URL = 'https://script.google.com/macros/s/AKfycbw9Y5rmJ1Xdap503ScsMhSdrb9ip0ufIoT1JdSUmINBR7YXX__JPTK4lF_Sitah7dxq/exec';
 
 // WhatsApp Integration — All non-review forms now open WhatsApp with pre-filled messages
 // The WhatsApp number is sourced from SITE_CONTENT.brand.whatsapp (default: 918825083535)
