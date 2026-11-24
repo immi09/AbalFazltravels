@@ -1,0 +1,40 @@
+# Operating System Files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Editor & AI Tool Folders
+.claude/
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Node / Package Manager / Cloudflare Local Cache
+node_modules/
+.npm/
+.wrangler/
+package-lock.json
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment & Sensitive Keys
+.env
+.env.*
+*.pem
+*.key
+
+# Temporary, Backup & Test Files
+test-*.html
+*.tmp
+*.temp
+*.bak
+*.swp
+*~
+
+# Internal Setup & Backend Scripts (Kept locally on your computer)
+SETUP_GUIDE.md
+google-apps-script/
+
